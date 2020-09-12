@@ -1402,7 +1402,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=1</string>
+				<string>alcid=1 shikigva=128</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -1469,17 +1469,17 @@
 			<key>AdviseWindows</key>
 			<true/>
 			<key>MLB</key>
-			<string>REMOVEDPLEASEFILL</string>
+			<string>C02805200GUJG36FB</string>
 			<key>ROM</key>
-			<data>AAAAAAAA</data>
+			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>REMOVEDFILL</string>
+			<string>C02W6EYFHX87</string>
 			<key>SystemUUID</key>
-			<string>ALSOREMOVEDPLEASEFILL</string>
+			<string>EAE0C3BC-8B2C-44AB-B66F-F43EDAA6B897</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
