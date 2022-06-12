@@ -1,7 +1,7 @@
-# Gigabyte B450M DS3H OpenCore 0.6.1
+# Gigabyte B450M DS3H OpenCore 0.7.8
 * Ryzen 3 3100
 * XFX Radeon RX 580 GTS XXX 8GB
-* 8GB(2x4) Corsair Vengeance LPX 3000MHz CL16
+* 16GB(4x4) Corsair Vengeance LPX 3000MHz CL16
 
 # Working:
 * Everything I tested.
